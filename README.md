@@ -6,7 +6,7 @@
 	<link href="wp-admin/css/install.css?ver=20100228" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<h1 id="logo"><a href="https://wordpress.org/"><img alt="WordPress" src="wp-admin/images/wordpress-logo.png" /></a></h1>
+<h1 id="logo"><a href="https://wordpress.org/"><img alt="WordPress" src="https://pngimg.com/uploads/wordpress/wordpress_PNG62.png" /></a></h1>
 
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
