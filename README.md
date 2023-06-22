@@ -8,7 +8,7 @@
 <body>
 <h1 id="logo"><a href="https://wordpress.org/"><img alt="WordPress" src="https://pngimg.com/uploads/wordpress/wordpress_PNG62.png" /></a></h1>
 
-<p style="text-align: center">Semantic Personal Publishing Platform</p>
+<p style="text-align: center">. Semantic Personal Publishing Platform</p>
 
 <h2>First Things First</h2>
 
